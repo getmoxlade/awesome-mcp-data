@@ -104,6 +104,7 @@ or published by the data provider itself. Every link resolved when added.
 
 ## Finance & Markets
 
+- [Statsnet](https://github.com/usenetstate/statsnet-mcp) - Background check any company in the world: registration, executives, courts and finances. Remote: `https://statsnet.co/mcp` · Registry: `io.github.usenetstate/statsnet`
 - [mcp_polygon)](https://github.com/polygon-io/mcp_polygon) - An MCP server that provides access to Polygon.io financial market data APIs for stocks, indices, forex, options, and more.
 - [investor-agent](https://github.com/ferdousbhai/investor-agent) - Yahoo Finance integration to fetch stock market data including options recommendations.
 - [flox-mcp](https://github.com/FLOX-Foundation/flox/tree/main/mcp) - MCP server for the FLOX trading systems framework. ~30 tools to run backtests, scaffold strategies, validate for lookahead bias, place orders,…
