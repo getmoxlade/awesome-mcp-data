@@ -270,6 +270,7 @@ or published by the data provider itself. Every link resolved when added.
 - [x402-fpl-api](https://github.com/dohyung1/x402-fpl-api) - Personalized Fantasy Premier League intelligence — scored captain picks, transfer suggestions, differentials, fixture outlook, price predictions,…
 - [nba_mcp_server](https://github.com/labeveryday/nba_mcp_server) - Access live and historical NBA statistics including player stats, game scores, team data, and advanced analytics via Model Context Protocol.
 - [lumify](https://github.com/lumifyai/lumify) - Agent-ready sports intelligence: schedules, live scores, odds, betting splits, and explainable bet confidence via hosted MCP…
+- [ParlayAPI MCP](https://github.com/JacobiusMakes/parlay-api-mcp) - Locally run MCP server for sports odds and player props in private research using your own API key; free monthly credits and paid subscriptions.
 
 ## Culture & Media
 
