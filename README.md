@@ -244,6 +244,7 @@ or published by the data provider itself. Every link resolved when added.
 - [hemmabo-mcp-server](https://github.com/HemmaBo-se/hemmabo-mcp-server) - Host-owned, agent-native direct booking for vacation rentals: agents discover a host's own domain, verify a host-domain signed (VRP ·… 🏅
 - [pickadive-mcp](https://github.com/afiliptsov/pickadive-mcp) - Live scuba-dive planning for AI agents — ranked dive-forecast windows near any place for any day, month-by-month best-time climatology per… 🏅
 - [kids-stay-mcp](https://github.com/sitebox/kids-stay-mcp) - Verified kid-friendly hotel data for Japan — search 1,900+ hotels by 48 conditions checked against official sources (diaper-friendly baths, baby… 🏅
+- [tablejourney-mcp](https://github.com/lewismvaughan/tablejourney-mcp) - Free, keyless remote MCP server for food travel data in 200+ cities: hand-checked restaurants, cafes, markets and street food (each with a source and check date), food festivals with resolved dates, signature dishes and itineraries. 🏅
 
 ## Social & Community
 
