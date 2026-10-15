@@ -293,6 +293,7 @@ or published by the data provider itself. Every link resolved when added.
 
 - [agentic-swmm-workflow](https://github.com/Zhonghao1995/agentic-swmm-workflow) - Eleven MCP servers exposing a reproducible EPA SWMM stormwater-modelling workflow: model building, simulation runs with manifests and continuity…
 - [ambee-mcp](https://github.com/ambeelabs/ambee-mcp) - 🎖️ 📇 ☁️ 🍎 🪟 🐧 The official Model Context Protocol server for Ambee. It gives any MCP-compatible AI assistant — Claude, ChatGPT, Cursor, VS Code,… 🏅
+- [dchub-mcp-server](https://github.com/azmartone67/dchub-mcp-server) - DC Hub is the live data layer for data-center site selection. Its Data Center Power Index (DCPI) is a daily score of where data centers can get grid power, across 300+ markets. 94 remote MCP tools at https://dchub.cloud/mcp; free tier, optional API key. 🏅
 
 ## Space & Aerospace
 
