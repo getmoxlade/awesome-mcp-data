@@ -101,6 +101,7 @@ or published by the data provider itself. Every link resolved when added.
 - [quantumproxies-mcp](https://github.com/quantumproxies/quantumproxies-mcp) - Live web access through residential proxies: scrape any page to clean Markdown, structured SERP search on three engines, site map and crawl, and… 🏅
 - [crawdar-mcp](https://github.com/eliottreich/crawdar-mcp) - Official hosted MCP server with an open-source stdio bridge for evidence-backed business discovery and lead-list research. Search by… 🏅
 - [serpdive-mcp](https://github.com/serpdive/serpdive-mcp) - Web search that returns extracted, answer-ready page content (url, title, date, text) instead of links. A Tavily alternative: same speed, 20.2%… 🏅
+- [Datacircle](https://datacircle.dev) - Plans, prices and benchmark scores of GTM data APIs at api.datacircle.dev/mcp; open to anyone, no key.
 
 ## Finance & Markets
 
